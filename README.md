@@ -12,8 +12,8 @@ Data Science, Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Data Man
 
 # Machine Learning Projects 
 
-Classification: The objective is to predict the class or category of new instances based on past observations.
-Regression: Predicting continuous values based on input data.
+ - Classification: The objective is to predict the class or category of new instances based on past observations.
+ - Regression: Predicting continuous values based on input data.
 
 ## Acknowledgements
 
