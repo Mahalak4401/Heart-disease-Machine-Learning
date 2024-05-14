@@ -10,10 +10,10 @@ I'm a Data Scientist...
 Data Science, Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Data Manipulation, Data Cleaning, Data Visualization, Model building...
 
 
-# Heart Disease Prediction using Machine Learning Algorithms
+# Machine Learning Projects 
 
-This project aims to predict the heart disease in individuals based on various medical factors using machine learning algorithms. By analyzing a dataset containing attributes such as age, sex, blood pressure, cholesterol levels, and other relevant features, the goal is to develop accurate predictive models that can assist healthcare professionals in early detection and prevention of heart diseases.
-
+Classification: The objective is to predict the class or category of new instances based on past observations.
+Regression: Predicting continuous values based on input data.
 
 ## Acknowledgements
 
